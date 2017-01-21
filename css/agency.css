@@ -35,7 +35,7 @@ a.active {
 }
 
 a {
-    color: red;
+    color: #404040;
 }
 
 a:hover,
@@ -287,7 +287,7 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url(../img/header-bg.jpg);
+    /*background-image: url(../img/header-bg.jpg);*/
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
@@ -320,8 +320,8 @@ header .intro-text .intro-heading {
 
 @media(min-width:768px) {
     header .intro-text {
-        padding-top: 300px;
-        padding-bottom: 200px;
+        /*padding-top: 300px;*/
+        /*padding-bottom: 200px;*/
     }
 
     header .intro-text .intro-lead-in {
